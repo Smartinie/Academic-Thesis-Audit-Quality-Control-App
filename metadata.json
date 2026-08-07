@@ -1,0 +1,6 @@
+{
+  "name": "Avante Writings",
+  "description": "An premium academic editing and audit workspace. Review and improve documents with digital precision, powered by custom multi-agent review loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
